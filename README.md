@@ -1,3 +1,3 @@
 # devops-automation.
 
-Sample java application for CI/CD pipeline
+Sample java application for CI/CD pipeline.
